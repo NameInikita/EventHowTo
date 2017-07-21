@@ -69,7 +69,9 @@ namespace ConsoleApplication1
             //Запускаю метод счетчик
             count.CountMethod();
 
+            Console.WriteLine();
             Console.ReadKey();
+
         }
     }
 }
